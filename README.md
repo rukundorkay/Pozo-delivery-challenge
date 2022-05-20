@@ -7,4 +7,4 @@ by selecting an employee from the list of employees and thus to a route that lis
 ## Tools
 
 - [Language][dart]
-- [framework][fultter](https://flutter.dev/)
+- [framework][flutter](https://flutter.dev/)
