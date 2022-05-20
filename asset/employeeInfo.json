@@ -1,0 +1,56 @@
+[
+   
+    
+     {
+         "name":"rukundo janvier",
+         "title":"mobile developer",
+         "email":"rukundo@pozo.com",
+         "task":[
+             {"create splash sreen":"completed"},
+            {"localize app":"pending"},
+            {"create login screen":"completed"},
+            {"create signup screen":"overdue" },
+            {"localization of app":"completed"},
+            {"add deep linking":"pending"},
+            {"test on all platform":"completed"},
+            {"deployment of app":"overdue" }
+         ]
+     },
+
+     {
+         "name":"murenzi Esther",
+         "title":"backend developer",
+         "email":"murenzi@pozo.com",
+         "task":[
+             
+                {"create endpoint":"completed"},
+                 {"send verification mail":"pending"},
+                 {"dockerization":"overdue"}, 
+                 {"add relationship in table":"completed"},
+                 {"documenting Api":"pending"},
+                 {"work on sandbox":"overdue"} 
+             
+         ]
+     },
+   
+    
+     {
+         "name":"bukuru pascar",
+         "title":"marketing manager",
+         "email":"bukuru@pozo.com",
+         "task":[
+             {"start media tour":"completed"},
+             {"create social media adverts":"pending"},
+             {"meet with all stakeholders":"completed"},
+             {"follow up on media tour":"overdue"},
+             {"Engage youth":"pending"},
+             {"drafting and planning adverts campain":"completed"}
+
+             
+         ]
+     }
+
+
+    
+
+    ]
